@@ -1,6 +1,6 @@
-# Hello, I'm EntropyAnarchy!
+# Hello, I'm EnigmaError (or just Erin)!
 
-Welcome to my profile! I'm a network security analyst at SymplyFi, a Firewall and MSP for QSRs, and I'm a cybersecurity undergrad (with a music minor) at Kennesaw State University.
+Welcome to my profile! I'm a cybersecurity undergrad (with a music minor) at Kennesaw State University.
 
 ## About me
 - I’m currently studying to take my Network+ and Security+.
